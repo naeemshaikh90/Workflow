@@ -108,4 +108,4 @@ agenda:
 
 Thanks for taking time to read this! Now its time to get back to work on some cool awesome thing.
 
-P.S. Thank you folks working at [Hyper](https://github.com/hyperoslo)
+P.S. Love you folks at [Hyper](https://github.com/hyperoslo)

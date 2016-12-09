@@ -3,7 +3,7 @@
 
 
 ## About
-Just like another day, I was surfing GitHub when I got this cool repo [playbook](https://github.com/hyperoslo/playbook), I liked it very much and decided to create a repo similar this to organize my daily, weekly [reading list](https://github.com/hyperoslo/playbook).
+Just like another day, I was surfing GitHub when I got this cool repo named [playbook](https://github.com/hyperoslo/playbook), I liked it very much and decided to create a repo similar this to organize my daily, weekly [reading list](https://github.com/hyperoslo/playbook).
 
 So from right now I will organize my to-do list in Agile way.
 

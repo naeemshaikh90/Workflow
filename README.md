@@ -3,7 +3,7 @@
 
 
 ## About
-Just like another day, I was surfing GitHub when I got this cool repo named [playbook](https://github.com/hyperoslo/playbook), I liked it very much and decided to create a repo similar this to organize my daily, weekly [reading list](https://github.com/hyperoslo/playbook).
+Just like another day, I was surfing GitHub when I got this cool repo named [playbook](https://github.com/hyperoslo/playbook), I liked it very much and decided to create a repo similar this to organize my daily, weekly workflow.
 
 So from right now I will organize my to-do list in Agile way.
 
@@ -33,8 +33,8 @@ That's called "agile", and that's what I choose to do.
 >
 > -- [Agile Manifesto](http://agilemanifesto.org/)
 
-Our products vary in complexity and duration and so our workflow varies equally,
-but there are some things that we always do:
+Our tasks vary in complexity and duration and so our workflow varies equally,
+but there are some things that I will always do:
 
 ### Stories
 
@@ -57,7 +57,7 @@ Further reading on the making of good stories:
 
 ### Stand-up
 
-Every day, I will list down what I'm doing.I call it a _stand-up_.
+Every day, I will list down what I'm doing. I call it a _stand-up_.
 
 I like to timebox stand-ups to 10 minutes where I'm asking these questions to myself:
 
@@ -106,3 +106,6 @@ agenda:
 * What should I stop doing?
 * What should I continue doing?
 
+Thanks for taking time to read this! Now its time to get back to work on some cool awesome thing.
+
+P.S. Thank you folks working at [Hyper](https://github.com/hyperoslo)

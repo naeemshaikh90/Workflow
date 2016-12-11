@@ -1,5 +1,5 @@
 # Workflow
-😎 My Daily(Stand-up), 🙅🏻‍♂️Weekly(Sprints) 🕵🏻Workflow To-Do List. ☕️
+😎 My Daily(Stand-up), 🙌🏻 Weekly(Sprints) 🕵🏻 Workflow To-Do List. ☕️
 
 
 ## About
@@ -108,4 +108,4 @@ agenda:
 
 Thanks for taking time to read this! Now its time to get back to work on some cool awesome thing.
 
-P.S. Love you folks at [Hyper](https://github.com/hyperoslo)
+P.S. ✌🏼Love you folks at [Hyper](https://github.com/hyperoslo).

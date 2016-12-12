@@ -1,4 +1,4 @@
-# Daily Routine
+# Daily Routine(Stand up)
 
 * [ ] [Check GitHub Dashboard](https://github.com)
 * [ ] [Check What's Trending in Swift](https://github.com/trending?l=swift)

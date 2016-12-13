@@ -13,6 +13,7 @@
   - Description
 
 #### GitHub Tasks
+* - [ ] [Check GitHub Notifications](https://github.com/notifications)
 * - [ ] [Check GitHub Dashboard](https://github.com)
 * - [ ] [Check What's Trending in Swift](https://github.com/trending?l=swift)
 * - [ ] [Check Trending Developers in Swift](https://github.com/trending/developers/swift)

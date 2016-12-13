@@ -4,13 +4,15 @@
 * - [ ] Create StandUp of the day.
   - Description
 
-#### StandUp Tasks  
+<details>
+<summary>StandUp Tasks</summary>
 * - [ ] What did I do yesterday?
   - Description
 * - [ ] What will I do today?
   - Description
 * - [ ] Are there any impediments in my way?
   - Description
+</details>
 
 #### GitHub Tasks
 * - [ ] [Check GitHub Notifications](https://github.com/notifications)

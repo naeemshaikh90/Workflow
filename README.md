@@ -106,6 +106,6 @@ agenda:
 * What should I stop doing?
 * What should I continue doing?
 
-Thanks for taking time to read this! Now its time to get back to work on some cool awesome thing.
+Thanks for taking time to read this! Now its time to get back to work on some cool awesome things.
 
 P.S. ✌🏼Love you folks at [Hyper](https://github.com/hyperoslo).

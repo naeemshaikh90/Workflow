@@ -1,5 +1,5 @@
 # Workflow
-😎 My Daily(Stand-up), 🙌🏻 Weekly(Sprints) 🕵🏻 Workflow To-Do List. ☕️
+👓 My Daily(Stand-up), 🙌🏻 Weekly(Sprints) and Workflow To-Do List. ☕️
 
 
 ## About

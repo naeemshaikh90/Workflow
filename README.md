@@ -64,11 +64,11 @@ We like to timebox stand-ups to 10 minutes where we ask these questions to ourse
 * What will I do today?
 * Are there any impediments in my way?
 
-### Backlog(/Backlog.md)
+### [Backlog](/Backlog.md)
 
 We keep a list of the stories that we should do, and we call it the _backlog_.
 
-### Sprints(/Sprint.md)
+### [Sprints](/Sprint.md)
 
 Every week, we select the most important stories from the backlog to work/read on. We
 call that a _sprint_.

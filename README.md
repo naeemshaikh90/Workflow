@@ -3,11 +3,11 @@
 
 
 ## About
-Just like another day, I was surfing GitHub when I got this cool repo named [playbook](https://github.com/hyperoslo/playbook), I liked it very much and decided to create a repo similar this to organize my daily, weekly workflow.
+Just like another day, I was surfing GitHub when I got this cool repo named [playbook](https://github.com/hyperoslo/playbook), I liked it so much and decided to create a repo similar this to organize my daily, weekly workflow.
 
 So from right now I will organize my to-do list in Agile way.
 
-It's hard to read each and every [awesome links](https://github.com/sindresorhus/awesome), [projects](https://github.com/vsouza/awesome-ios), [GitHub Organizations](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#organizations) [cool profiles](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#profiles). It's hard because there are a million choices
+It's hard to read each and every [awesome links](https://github.com/sindresorhus/awesome), [projects](https://github.com/vsouza/awesome-ios), [GitHub Organizations](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#organizations) [cool profiles](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#profiles) and many more interesting links. It's hard because there are a million choices
 along the way, and because it never really ends. In a word, it's uncertain.
 
 There are two ways to deal with that; to control it, or to accept it.
@@ -19,7 +19,7 @@ The other way is to accept that it is uncertain and deal with it. That is to
 accept that things will change along the way, and to make it as painless as
 possible when they do.
 
-That's called "agile", and that's what I choose to do.
+That's called "agile", and that's what we should choose to do.
 
 ## Agile
 
@@ -34,7 +34,7 @@ That's called "agile", and that's what I choose to do.
 > -- [Agile Manifesto](http://agilemanifesto.org/)
 
 Our tasks vary in complexity and duration and so our workflow varies equally,
-but there are some things that I will always do:
+but there are some things that we will always do:
 
 ### Stories
 
@@ -55,51 +55,51 @@ Further reading on the making of good stories:
 
 * [User Stories Applied](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685)
 
-### Stand-up
+### [Stand-up](/StandUp.md)
 
-Every day, I will list down what I'm doing. I call it a _stand-up_.
+Every day, we will list down what we're doing. We call it a _stand-up_.
 
-I like to timebox stand-ups to 10 minutes where I'm asking these questions to myself:
+We like to timebox stand-ups to 10 minutes where we ask these questions to ourselves:
 
 * What did I do yesterday?
 * What will I do today?
 * Are there any impediments in my way?
 
-### Backlog
+### Backlog(/Backlog.md)
 
-I'll keep a list of the stories that I should do, and I call it the _backlog_.
+We keep a list of the stories that we should do, and we call it the _backlog_.
 
-### Sprints
+### Sprints(/Sprint.md)
 
-Every week, I select the most important stories from the backlog to work/read on. I
+Every week, we select the most important stories from the backlog to work/read on. We
 call that a _sprint_.
 
 #### Sprint planning
 
-At the beginning of each week, I'll plan a new sprint. At the end
-of the Sprint planning, I should have committed to a week's worth of stories
+At the beginning of each week, we plan a new sprint. At the end
+of the Sprint planning, We should have committed to a week's worth of stories
 to complete.
 
-I like to timebox sprint plannings to 30 minutes with the following agenda:
+We like to timebox sprint plannings to 30 minutes with the following agenda:
 
 * What I am doing next week?
 
 #### Sprint review
 
-At the end of each week, I'll review the sprint that I had and
-to agree that the stories in it are in fact complete/read. At the end of the Sprint review,
+At the end of each week, we'll review the sprint that we had and
+to agree that the stories in it are in fact complete. At the end of the Sprint review,
 the stories that were completed are [checked out](https://guides.github.com/features/mastering-markdown/), and the ones that aren't go back
 to the top of the backlog.
 
-I like to timebox sprint reviews to 30 minutes with the following agenda:
+We like to timebox sprint reviews to 30 minutes with the following agenda:
 
 * What did I do last week?
 
 #### Sprint retrospective
 
-At the end of each week, I'll think about how I worked. This is how I get better.
+At the end of each week, we'll think about how we worked. This is how we get better.
 
-I like to timebox sprint retrospectives to 15 minutes with the following
+We like to timebox sprint retrospectives to 15 minutes with the following
 agenda:
 
 * What should I start doing?

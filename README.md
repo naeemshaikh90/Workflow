@@ -73,7 +73,7 @@ We keep a list of the stories that we should do, and we call it the _backlog_.
 Every week, we select the most important stories from the backlog to work/read on. We
 call that a _sprint_.
 
-#### Sprint planning
+#### [Sprint planning](/Sprint.md#sprint-planning)
 
 At the beginning of each week, we plan a new sprint. At the end
 of the Sprint planning, We should have committed to a week's worth of stories
@@ -83,7 +83,7 @@ We like to timebox sprint plannings to 30 minutes with the following agenda:
 
 * What I am doing next week?
 
-#### Sprint review
+#### [Sprint review](/Sprint.md#sprint-review)
 
 At the end of each week, we'll review the sprint that we had and
 to agree that the stories in it are in fact complete. At the end of the Sprint review,
@@ -94,7 +94,7 @@ We like to timebox sprint reviews to 30 minutes with the following agenda:
 
 * What did I do last week?
 
-#### Sprint retrospective
+#### [Sprint retrospective](/Sprint.md#sprint-retrospective)
 
 At the end of each week, we'll think about how we worked. This is how we get better.
 

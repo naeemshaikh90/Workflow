@@ -7,7 +7,7 @@ Just like another day, I was surfing GitHub when I got this cool repo named [pla
 
 So from right now I will organize my to-do list in Agile way.
 
-It's hard to read each and every [awesome links](https://github.com/sindresorhus/awesome), [projects](https://github.com/vsouza/awesome-ios), [GitHub Organizations](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#organizations) [cool profiles](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#profiles) and many more interesting links. It's hard because there are a million choices
+It's hard to complete some task or to read each and every [awesome links](https://github.com/sindresorhus/awesome), [projects](https://github.com/vsouza/awesome-ios), [GitHub Organizations](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#organizations) [cool profiles](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#profiles) and many more interesting links. It's hard because there are a million choices
 along the way, and because it never really ends. In a word, it's uncertain.
 
 There are two ways to deal with that; to control it, or to accept it.

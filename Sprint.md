@@ -22,4 +22,6 @@
 
 #### Other Tasks
 * - [ ] [Task1](Link1)
+  - Description
 * - [ ] [Task2](Link2)
+  - Description

@@ -5,9 +5,9 @@
 ## About
 Just like another day, I was surfing GitHub when I got this cool repo named [playbook](https://github.com/hyperoslo/playbook), I liked it so much and decided to create a repo similar this to organize my daily, weekly workflow.
 
-So from right now I will organize my to-do list in Agile way.
+So from right now we will organize our to-do list in Agile way.
 
-It's hard to complete some task or to read out each and every links that we came across daily while surfing internet. It's hard because there are a million choices along the way, and because it never really ends. In a word, it's uncertain.
+It's hard to complete some task or to read out instantaneously each and every links that we came across daily while surfing internet. It's hard because there are a million choices along the way, and because it never really ends. In a word, it's uncertain.
 
 There are two ways to deal with that; to control it, or to accept it.
 
@@ -105,6 +105,10 @@ agenda:
 * What should I stop doing?
 * What should I continue doing?
 
+Thats the end of workflow planning.
+
 Thanks for taking time to read this! Now its time to get back to work on some cool awesome things.
+
+Feel free to contact [me](https://twitter.com/naeemshaikh90) to work on your next awesome project in an agile way!
 
 P.S. ✌🏼Love you folks at [Hyper](https://github.com/hyperoslo).

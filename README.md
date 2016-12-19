@@ -7,8 +7,7 @@ Just like another day, I was surfing GitHub when I got this cool repo named [pla
 
 So from right now I will organize my to-do list in Agile way.
 
-It's hard to complete some task or to read each and every [awesome links](https://github.com/sindresorhus/awesome), [projects](https://github.com/vsouza/awesome-ios), [GitHub Organizations](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#organizations) [cool profiles](https://github.com/naeemshaikh90/Reading-List/blob/master/Github.md#profiles) and many more interesting links. It's hard because there are a million choices
-along the way, and because it never really ends. In a word, it's uncertain.
+It's hard to complete some task or to read out each and every links that we came across daily while surfing internet. It's hard because there are a million choices along the way, and because it never really ends. In a word, it's uncertain.
 
 There are two ways to deal with that; to control it, or to accept it.
 
@@ -19,7 +18,7 @@ The other way is to accept that it is uncertain and deal with it. That is to
 accept that things will change along the way, and to make it as painless as
 possible when they do.
 
-That's called "agile", and that's what we should choose to do.
+That's called "agile", and that's what we choose to do.
 
 ## Agile
 

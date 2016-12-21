@@ -9,8 +9,7 @@
   - Started reading iOS Architecture Patterns
 * - [x] What will I do today?
   * - [x] Complete Touch Typing Beginner lessons
-  * - [ ] Complete Optional Chaining Swift book chapter
-  * - [ ] Complete iOS Architecture Patterns
-  * - [ ] Read [My Top Apps for 2017](https://medium.com/@zenorocha/my-top-apps-for-2017-62473cf873a4#.q6aualfvi)
+  * - [x] Complete iOS Architecture Patterns
+  * - [x] Complete First 3 chapters of [Functional Programming Swift book](https://www.objc.io/books/functional-swift/preview/)
 * - [x] Are there any impediments in my way?
   - No

@@ -6,9 +6,9 @@
 
 #### StandUp Tasks
 * - [x] What did I do yesterday?
-  - Completed Draft of workflow article for Medium.
+  - Started workflow.
 * - [x] What will I do today?
-  - Complete the workflow article, and publish on Medium.
-  - Complete Optional Chaining (22 Pages) of Swift book.
+  * - [x] This week's Sprint planning.
+  * - [x] Started reading Swift book chapter (Optional Chaining).
 * - [x] Are there any impediments in my way?
   - No.

@@ -8,7 +8,6 @@
 * - [x] What did I do yesterday?
   - Nothing, as it is a start of workflow.
 * - [x] What will I do today?
-  * - [ ] Write article about this workflow on Medium.
-    - Draft is under revision.
+  * - [x] Start workflow.
 * - [x] Are there any impediments in my way?
   - No.

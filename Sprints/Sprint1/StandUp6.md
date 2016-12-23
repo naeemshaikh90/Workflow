@@ -1,13 +1,20 @@
 ## Daily Routine (StandUp)
 
 #### General Tasks
-* - [ ] Create StandUp of the day.
+* - [x] Create StandUp of the day.
   - StandUp for Friday, 23 December 2016.
 
 #### StandUp Tasks
-* - [ ] What did I do yesterday?
-  - Description
-* - [ ] What will I do today?
-  - Description
-* - [ ] Are there any impediments in my way?
-  - Description
+* - [x] What did I do yesterday?
+  - Checkout StandUp5
+* - [x] What will I do today?
+  * - [x] Touch Typing
+    * - [x] Intermediate
+      * - [x] Common English Words
+      * - [x] Easy Home Row Words
+
+  * - [x] WWDC
+      * - [x] 2012
+        * - [x] iOS App Performance: Responsiveness
+* - [x] Are there any impediments in my way?
+  - No

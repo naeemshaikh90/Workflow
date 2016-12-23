@@ -6,24 +6,22 @@
 
 #### Sprint planning
 * - What I am doing next week?
-  * - [ ] Medium
-    * - [ ] iOS Architecture Patterns
-    * - [ ] My Top Apps for 2017
+  * - [x] Medium
+    * - [x] iOS Architecture Patterns
 
   * - [ ] Swift book reading chapters
-    * - [ ] Optional Chaining (22 Pages)
+    * - [x] Optional Chaining (22 Pages)
     * - [ ] Error Handling (14 Pages)
     * - [ ] Type Casting (12 Pages)
     * - [ ] Nested Types (5 Pages)
     * - [ ] Extensions (14 Pages)
 
-  * - [ ] WWDC 16
-    * - [ ] Platforms State of the Union
-    * - [ ] What's New in Cocoa Touch
-
-  * - [ ] Shinobi Controls
-    * - [ ] iOS10 Day by Day
-      * - [ ] Day 1 :: Messages
+  * - [x] WWDC
+    * - [x] 2012
+      * - [x] iOS App Performance: Responsiveness
+    * - [x] 2014
+      * - [x] Core iOS Application Architectural Patterns
+      * - [x] Advanced iOS Application Architecture and Patterns
 
   * - [ ] Raywenderlich
     * - [ ] IGListKit Tutorial: Better UICollectionViews
@@ -37,6 +35,9 @@
       * - [x] Q, Y, and P Keys
       * - [x] Z and Enter Keys
       * - [x] Beginner Wrap Up
+    * - [x] Intermediate
+      * - [x] Common English Words
+      * - [x] Easy Home Row Words
 
 #### Sprint review
 * - [x] What did I do last week?
